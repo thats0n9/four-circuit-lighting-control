@@ -1,0 +1,8 @@
+Licensing scope
+
+Rights holders: Zhongshuai Li and Yue Song. Copyright (c) 2026.
+Software and accompanying software documentation: MIT License; see ../LICENSE.
+Scientific datasets, parameter records, data dictionaries, result tables and plotting data: Creative Commons Attribution 4.0 International (CC BY 4.0); see ../LICENSE_DATA.txt.
+Data attribution: cite the complete research-team citation in CITATION_TEMPLATE.txt and link to the repository and data licence; indicate modifications.
+
+These licences do not automatically cover photographs, rendered illustrations or the journal article. Unless separately licensed, permission for reuse of these materials must be obtained from their rights holders. This does not limit regeneration of figures using the licensed software and data. Third-party materials retain their own licences. Dependencies are installed through requirements files and are not redistributed here. Times New Roman font files are not included.

@@ -1,0 +1,5 @@
+﻿n_points,coefficient_fit_readings,layout_validation_readings,total_layout_readings,illustrative_seconds_per_reading,illustrative_layout_hours
+8,208,496,704,50,9.777777777777779
+12,312,744,1056,50,14.666666666666666
+16,416,992,1408,50,19.555555555555557
+24,624,1488,2112,50,29.333333333333332

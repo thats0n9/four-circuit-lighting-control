@@ -1,0 +1,9 @@
+{
+  "figures": 7,
+  "redrawn": 6,
+  "font": "Times New Roman",
+  "source": "Observed_Study/results",
+  "source_mode": "archived_result_tables",
+  "static_candidate_diagnostics_not_operating_policies": true,
+  "trace_power_integration_not_primary_metering": true
+}

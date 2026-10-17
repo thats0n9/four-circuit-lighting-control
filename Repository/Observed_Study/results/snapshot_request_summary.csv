@@ -1,0 +1,25 @@
+﻿layout,n_points,model,observed_feasible_requests,observed_unsafe_selected_requests,unprotected_feasible_requests,unprotected_unsafe_selected_requests,protected_feasible_requests,protected_unsafe_selected_requests
+Depth-stratified,8,Analytic baseline,45,0,45,21,45,0
+Depth-stratified,8,Improved model,45,0,45,11,45,0
+Depth-stratified,12,Analytic baseline,45,0,45,4,45,0
+Depth-stratified,12,Improved model,45,0,45,4,45,0
+Depth-stratified,16,Analytic baseline,45,0,45,2,45,0
+Depth-stratified,16,Improved model,45,0,45,2,45,0
+Depth-stratified,24,Analytic baseline,45,0,45,0,45,0
+Depth-stratified,24,Improved model,45,0,45,0,45,0
+Distributed,8,Analytic baseline,45,0,45,0,45,0
+Distributed,8,Improved model,45,0,45,0,45,0
+Distributed,12,Analytic baseline,45,0,45,4,45,0
+Distributed,12,Improved model,45,0,45,4,45,0
+Distributed,16,Analytic baseline,45,0,45,4,45,0
+Distributed,16,Improved model,45,0,45,4,45,0
+Distributed,24,Analytic baseline,45,0,45,4,45,0
+Distributed,24,Improved model,45,0,45,4,45,0
+Window-clustered,8,Analytic baseline,45,0,45,0,45,0
+Window-clustered,8,Improved model,45,0,45,0,45,0
+Window-clustered,12,Analytic baseline,45,0,45,0,45,0
+Window-clustered,12,Improved model,45,0,45,0,45,0
+Window-clustered,16,Analytic baseline,45,0,45,0,45,0
+Window-clustered,16,Improved model,45,0,45,0,45,0
+Window-clustered,24,Analytic baseline,45,0,45,0,45,0
+Window-clustered,24,Improved model,45,0,45,0,45,0

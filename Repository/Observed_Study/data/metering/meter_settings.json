@@ -1,0 +1,11 @@
+{
+  "calibration_endpoint_time_halfwidth_s": 1,
+  "common_gain_halfwidth": 0.01,
+  "day_endpoint_time_halfwidth_s": 1,
+  "heartbeat_period_s": 10,
+  "log_event_time_halfwidth_s": 0.2,
+  "meter_boundary_power_upper_kW": 0.75,
+  "residual_drift_halfwidth": 0.001,
+  "resolution_kWh": 0.01,
+  "state_bias_halfwidth": 0.01
+}

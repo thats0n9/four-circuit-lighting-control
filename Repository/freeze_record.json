@@ -1,0 +1,29 @@
+{
+  "release": "BSERT-CODE-20261017-C22",
+  "manuscript_release": "BSERT-SUBMISSION-20261017-S19",
+  "date": "2026-10-17",
+  "status": "locally_verified_pending_initial_upload_to_new_repository",
+  "primary_software_checks": 3782,
+  "numerical_invariants": 68,
+  "primary_numeric_result_files": 37,
+  "numerical_scientific_files": 602,
+  "main_figures": 7,
+  "raw_input_files": 13,
+  "full_numerical_pipeline_executed": false,
+  "funding_filled": true,
+  "repository_url_filled": true,
+  "external_upload_performed": false,
+  "dictionary_fields_verified": 2232,
+  "shared_inputs_stored_once": 95,
+  "published_figures_reproduced": 18,
+  "numerical_kernels_byte_unchanged": 27,
+  "full_numerical_comparison_evidence_retained": true,
+  "software_license": "MIT",
+  "data_license": "CC-BY-4.0",
+  "rights_holders": [
+    "Zhongshuai Li",
+    "Yue Song"
+  ],
+  "licences_filled": true,
+  "repository_url": "https://github.com/thats0n9/four-circuit-lighting-control"
+}

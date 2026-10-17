@@ -1,0 +1,4 @@
+Study observations, model inputs and analysis
+Release BSERT-CODE-20261017-C22-MODEL
+
+Run python run_study.py from the enclosing Model_Study directory. ../README.txt describes installation, supported commands and sharing status. fixed_inputs and input_storage_map.json identify fixed verification/protocol inputs; spatial_calibration contains fitting records. Shared metering files use the observation data directory, and metering_data retains numerical metering inputs and results. light_field_inputs contains optical reference components and geometry. analysis_results and camera_reference contain analysis outputs. Numerical benchmark and sensitivity roles are specified in ../documentation/analysis_input_roles.csv and ../documentation/DATA_ROLES_AND_UNITS.txt. paper_table_index_en.csv maps all figures and tables to their sources; file_manifest.csv records the Study file hashes. Supported commands stage shared inputs and write only to fresh output directories.

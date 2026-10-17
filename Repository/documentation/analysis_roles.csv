@@ -1,0 +1,5 @@
+﻿entry,input,output,role
+Observed_Study/observed_analysis.py,Fixed observation and instrument records,"Primary spatial and metered endpoints, followed by derived diagnostics",Primary spatial and cumulative-register analysis of fixed records
+Observed_Study/mechanism_analysis.py,"Primary fitted parameters, fixed terminal observations, allowances, output events and state calibration","Decision matrices, static candidate sets, state hours and calibration-integrated energy",Derived snapshot decisions and recorded-output accounting
+Model_Study/summarise_model_mechanisms.py,Archived controlled numerical-family and common-input replay result tables,Protection counts and paired P/PU mechanism summaries,Separate numerical aggregation; not a rerun of the full model
+Model_Study/run_study.py reproduce,Declared optical parameters and numerical protocol,Complete numerical analysis,Separate model pipeline; not the observation-led entry point

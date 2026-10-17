@@ -1,0 +1,9 @@
+{
+  "estimate_kWh": -0.15000000000000333,
+  "SE_kWh": 0.11508231573069384,
+  "df": 11,
+  "CI_low_kWh": -0.4032944691016951,
+  "CI_high_kWh": 0.10329446910168841,
+  "unit": "one contrast per four-day block",
+  "allocation": "fixed within-block order, not randomised"
+}

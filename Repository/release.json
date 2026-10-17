@@ -1,0 +1,101 @@
+{
+  "release": "BSERT-CODE-20261017-C22",
+  "date": "2026-10-17",
+  "manuscript_release": "BSERT-SUBMISSION-20261017-S19",
+  "python": "3.12",
+  "authors": [
+    {
+      "name": "Zhongshuai Li",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "lzs80vip@163.com"
+    },
+    {
+      "name": "Yue Song",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "yue_song@live.cn",
+      "orcid": "https://orcid.org/0009-0008-7104-5368",
+      "corresponding_author": true
+    },
+    {
+      "name": "Yuxin Yan",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "13935878466@163.com"
+    },
+    {
+      "name": "Zhenhua Fan",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "Fanzh_h@163.com"
+    },
+    {
+      "name": "Nanjie Zhou",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "Znj20038224830@163.com"
+    },
+    {
+      "name": "Longhang Zhou",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "18136486609@163.com"
+    },
+    {
+      "name": "Zhejie Meng",
+      "affiliation_ids": [
+        1
+      ],
+      "email": "19862558422@163.com"
+    }
+  ],
+  "repository_url": "https://github.com/thats0n9/four-circuit-lighting-control",
+  "repository_doi": "",
+  "software_license": "MIT",
+  "data_license": "CC-BY-4.0",
+  "license_status": "Assigned by the rights holders",
+  "analysis_scope": "Primary: observed R16 spatial readings and 48-day cumulative metering. Separate supplement: optical models, policy replays and sensitivity calculations.",
+  "external_upload_performed": false,
+  "figure_design_version": "OBSERVATION-MECHANISM-FIGURES",
+  "affiliations": [
+    {
+      "id": 1,
+      "name": "School of Energy and Power Engineering, Changchun Institute of Technology, Changchun 130012, China"
+    }
+  ],
+  "corresponding_author": {
+    "name": "Yue Song",
+    "email": "yue_song@live.cn",
+    "orcid": "https://orcid.org/0009-0008-7104-5368"
+  },
+  "primary_record_group": "R16",
+  "model_scientific_files": 602,
+  "primary_result_files": 37,
+  "primary_analysis_recomputed": true,
+  "fixed_observation_values_changed": false,
+  "primary_mechanisms": "Observed snapshot candidate sets and applied-output-duration diagnostics; numerical controls separate",
+  "repository_name": "four-circuit-lighting-control",
+  "funding": {
+    "funder": "Liaoyuan Power Supply Company, State Grid Jilin Electric Power Co., Ltd.",
+    "funder_name_original": "国网吉林省电力有限公司辽源供电公司",
+    "project_title": "Development of a wireless live-line obstacle-removal device for transmission lines",
+    "project_title_original": "输电线路无线带电清障装置研制",
+    "grant_number": "220240185"
+  },
+  "repository_publicly_accessible": true,
+  "git_storage_policy": "Disable Git text conversion with .gitattributes so manifests and fixed records retain their exact bytes.",
+  "rights_holders": [
+    "Zhongshuai Li",
+    "Yue Song"
+  ],
+  "software_license_file": "LICENSE",
+  "data_license_file": "LICENSE_DATA.txt",
+  "repository_release_uploaded": false
+}

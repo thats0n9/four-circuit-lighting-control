@@ -1,0 +1,46 @@
+{
+  "record_group": "R16",
+  "classroom": {
+    "length_m": 11.0,
+    "width_m": 8.2,
+    "ceiling_m": 3.0,
+    "task_plane_height_m": 0.75,
+    "circuits": 4,
+    "luminaires": 16
+  },
+  "task_criteria": {
+    "mean_lx": 500,
+    "minimum_lx": 300,
+    "uniformity": 0.6
+  },
+  "snapshot_backgrounds_lx": [
+    0,
+    200,
+    500
+  ],
+  "daylight_fit_levels_lx": [
+    100,
+    250,
+    500,
+    800
+  ],
+  "candidate_positions": 81,
+  "terminal_positions": 208,
+  "protection_positions": 69,
+  "point_counts": [
+    8,
+    12,
+    16,
+    24
+  ],
+  "metering_policies": [
+    "FZ12",
+    "P8",
+    "P12",
+    "P24"
+  ],
+  "primary_energy_contrast": "P24 minus P12",
+  "source_record_scope": "One reference-classroom record group; no population inference from the supplementary parameter combinations",
+  "primary_quality_scope": "Observed steady-state snapshots, not continuous task-plane observations during the metered days",
+  "acquisition_dates_not_encoded_in_record_ids": true
+}

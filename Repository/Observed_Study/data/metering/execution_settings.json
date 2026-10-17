@@ -1,0 +1,17 @@
+{
+  "actuator_assumption": "normal relay and lamps; verify via handheld lux and statewise meter calibration before running",
+  "camera_period_s": 1.0,
+  "clock_alignment_verified": true,
+  "clock_domain": "classroom_synced_monotonic_clock",
+  "controller_period_s": 0.2,
+  "event_timestamp_definition": "node_output_update",
+  "frame_timestamp_definition": "frame_acquisition",
+  "heartbeat_period_s": 10.0,
+  "independent_continuous_lamp_feedback": false,
+  "max_camera_node_alignment_s": 0.2,
+  "max_event_time_uncertainty_s": 0.2,
+  "state_read_location": "local output latch or GPIO readback after writing the output",
+  "state_series_kind": "applied_output_trace",
+  "steady_state16_verified": true,
+  "timestamp_note": "retain acquisition and reception times separately; use acquisition/local-output time for compensation"
+}

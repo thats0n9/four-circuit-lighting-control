@@ -1,0 +1,12 @@
+{
+  "state_series_kind": "applied_output_trace",
+  "event_timestamp_definition": "node_output_update",
+  "frame_timestamp_definition": "frame_acquisition",
+  "clock_domain": "classroom_synced_monotonic_clock",
+  "clock_alignment_verified": true,
+  "steady_state16_verified": true,
+  "execution_log_valid": true,
+  "physical_lamp_state_continuously_verified": false,
+  "execution_scope": "recorded applied outputs; normal-actuator and steady-state verification assumptions",
+  "actual_energy_primary_preserved": true
+}

@@ -1,0 +1,111 @@
+{
+  "classification": [
+    {
+      "layout": "Depth-stratified",
+      "n_points": 12,
+      "model": "Improved model",
+      "stage": "Unprotected",
+      "true_positive": 46,
+      "false_positive": 2,
+      "true_negative": 144,
+      "false_negative": 0,
+      "predicted_passes": 48,
+      "observed_passes": 46,
+      "total": 192,
+      "precision_pct": 95.83333333333333,
+      "retained_observed_passes_pct": 100.0
+    },
+    {
+      "layout": "Depth-stratified",
+      "n_points": 12,
+      "model": "Improved model",
+      "stage": "Protected",
+      "true_positive": 39,
+      "false_positive": 0,
+      "true_negative": 146,
+      "false_negative": 7,
+      "predicted_passes": 39,
+      "observed_passes": 46,
+      "total": 192,
+      "precision_pct": 100.0,
+      "retained_observed_passes_pct": 84.78260869565217
+    },
+    {
+      "layout": "Depth-stratified",
+      "n_points": 24,
+      "model": "Improved model",
+      "stage": "Unprotected",
+      "true_positive": 46,
+      "false_positive": 0,
+      "true_negative": 146,
+      "false_negative": 0,
+      "predicted_passes": 46,
+      "observed_passes": 46,
+      "total": 192,
+      "precision_pct": 100.0,
+      "retained_observed_passes_pct": 100.0
+    },
+    {
+      "layout": "Depth-stratified",
+      "n_points": 24,
+      "model": "Improved model",
+      "stage": "Protected",
+      "true_positive": 39,
+      "false_positive": 0,
+      "true_negative": 146,
+      "false_negative": 7,
+      "predicted_passes": 39,
+      "observed_passes": 46,
+      "total": 192,
+      "precision_pct": 100.0,
+      "retained_observed_passes_pct": 84.78260869565217
+    }
+  ],
+  "request_summary": [
+    {
+      "layout": "Depth-stratified",
+      "n_points": 12,
+      "model": "Improved model",
+      "observed_feasible_requests": 45,
+      "observed_unsafe_selected_requests": 0,
+      "unprotected_feasible_requests": 45,
+      "unprotected_unsafe_selected_requests": 4,
+      "protected_feasible_requests": 45,
+      "protected_unsafe_selected_requests": 0
+    },
+    {
+      "layout": "Depth-stratified",
+      "n_points": 24,
+      "model": "Improved model",
+      "observed_feasible_requests": 45,
+      "observed_unsafe_selected_requests": 0,
+      "unprotected_feasible_requests": 45,
+      "unprotected_unsafe_selected_requests": 0,
+      "protected_feasible_requests": 45,
+      "protected_unsafe_selected_requests": 0
+    }
+  ],
+  "point_count_request_comparison": {
+    "unprotected": {
+      "requests": 45,
+      "identical_candidate_sets": 41,
+      "common_feasible_requests": 45,
+      "same_minimum_power_state_among_common": 41,
+      "changed_minimum_power_state_among_common": 4,
+      "availability_disagreements": 0
+    },
+    "protected": {
+      "requests": 45,
+      "identical_candidate_sets": 45,
+      "common_feasible_requests": 45,
+      "same_minimum_power_state_among_common": 45,
+      "changed_minimum_power_state_among_common": 0,
+      "availability_disagreements": 0
+    }
+  },
+  "unprotected_changed_snapshot_labels": 2,
+  "protected_changed_snapshot_labels": 0,
+  "scope": "Independent observed snapshots; 45 exhaustive request/background combinations, not operating-day samples",
+  "selection_rule": "Minimum recorded calibration power centre then state code, among snapshot-feasible candidates only; no fallback, manual rule or dynamic policy replay",
+  "power_role": "Calibrated power used only for static candidate ranking; no daily electricity outcome is inferred"
+}
