@@ -1,0 +1,34 @@
+﻿scope,series,colour_hex,marker,line_style,hatch
+model,Analytic baseline,#78838F,D,--,//
+model,Improved model,#007A78,o,-,
+layout,Depth strata,#007A78,o,-,
+layout,Distributed,#3569A8,s,--,
+layout,Window cluster,#B46B3D,^,-.,
+policy,PU joint enumeration,#007A78,o,-,
+policy,DZU zonal union with repair,#3569A8,s (open),--,
+acceptance,Accepted,#007A78,o (open),,
+acceptance,Failed,#B84B3A,x,,//
+decision,Below screening scales,#78838F,,,
+decision,Energy candidate,#3569A8,,,
+decision,Quality deterioration,#B46B3D,,,
+decision,Quality candidate,#007A78,,,
+reference,Camera reference,#007A78,,-,
+reference,Linear endpoint interpolation,#B46B3D,,--,
+session,Internal-reference residual,#3569A8,,:,
+session,Spatial sentinel change,#B46B3D,,--,//
+positions,Final validation,#78838F,o,,
+positions,Protection,#B84B3A,s (open),,
+bounds,Conditional outer bounds,#3569A8,,-,
+bounds,Nominal difference,#007A78,o (open),,
+metering,Declared metering bound,#B46B3D,^,-,
+metering,Smaller-bound scenario,#3569A8,s,--,
+heatmap,Passed,#D6E8E5,,,
+heatmap,Failed,#EED2CB,,,//
+screening,Declared engineering scale,#B46B3D,,--,
+bounds,Research acceptance failed,#B84B3A,x,--,
+geometry,Window side,#3569A8,,-,
+monitored position,Sentinel,#007A78,* (open),,
+monitored position,Reference,#3569A8,^ (filled),,
+full-position condition,Met,#007A78,,,
+full-position condition,Not met,#B84B3A,,,
+sentinel screen,Failed (Figure S3),#B84B3A,,,//

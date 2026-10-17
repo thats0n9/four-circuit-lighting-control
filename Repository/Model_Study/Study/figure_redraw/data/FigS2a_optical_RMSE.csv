@@ -1,0 +1,5 @@
+﻿condition,method,mean_RMSE_lx
+angular_1p6,original,38.35626127445858
+angular_1p6,improved,24.27702612914744
+window_nonuniform,original,25.338269695657686
+window_nonuniform,improved,21.862103186196606

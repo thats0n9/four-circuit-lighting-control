@@ -1,0 +1,17 @@
+﻿figure,panel,data_file,plot_type,columns_and_order
+1,"a,b",original_execution_node_photo.jpeg,Photograph and vector flow diagram,No numerical series
+2,a–e,data/Fig2_positions.csv,Scatter positions,Filter set; x_m and y_m
+3,"a,b",data/Fig3_RMSE.csv,Line and marker,Filter panel and series; n_points versus RMSE_lx
+4,a,data/Fig4a_feasibility.csv,Horizontal bars,category versus count; denominator 1620
+4,b,data/Fig4b_first_failure.csv,Horizontal bars,category versus share_pct
+5,"a,b",data/Fig5a_point_differences.csv,Scatter overview and local enlargement,"energy_difference_kWh_day versus joint_shortfall_difference_pp; acceptance marker; exact coincidence labelled, no coordinate displacement"
+5,c,data/Fig5b_classification.csv,Horizontal bars,category versus count
+6,"a,b",data/Fig6_binning.csv,Line and marker,Filter policy; bins versus energy_kWh_day / joint_shortfall_pct
+7,"a,b",data/Fig7_paired_bounds.csv | data/Fig5a_point_differences.csv,Complete horizontal ranges and local enlargement,"case versus lower_pp, upper_pp and nominal_difference_pp; research-acceptance symbols joined by case from Fig5a_point_differences.csv; continuation arrows in panel b"
+S1,single,data/FigS1_acceptance.csv,Heatmap,accepted; ordered 36 cases × 3 layouts × 4 point counts
+S2,a,data/FigS2a_optical_RMSE.csv,Grouped bars,condition and method versus mean_RMSE_lx
+S2,b,data/FigS2b_meter_precision.csv,Line and marker,Filter series; days versus half_width_kWh; daily-contrast units kWh/day
+S3,a,data/FigS3a_task_points.csv | data/FigS3a_monitored_positions.csv,Coloured scatter and monitored-position symbols,"x_m, y_m, response_change_pct; no displacement of co-located monitored positions"
+S3,b,data/FigS3b_counterexamples.csv,Bars and screening labels,max_task_change_pct; screen_pass; full-position bound 5%
+S4,a,data/FigS4a_reference_trace.csv,Lines,time_s versus camera_reference_lx and linear_interpolation_lx
+S4,b,data/FigS4b_session_screens.csv,Grouped bars,session versus internal_residual_pct and sentinel_change_pct; limits 3.5% / 2%

@@ -1,0 +1,6 @@
+﻿category,count,denominator
+uniform_margin,0,1620
+prediction_no_guard,1313,1620
+true_same_interval,1336,1620
+true_instant_lower,1416,1620
+task_metric_guard,1153,1620

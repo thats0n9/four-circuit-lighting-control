@@ -1,0 +1,5 @@
+﻿example,max_task_change_pct,screen_pass
+bounded_uniform,1.5,1
+detected_far_shape,7.5,0
+hidden_interior_shape,15.0,1
+returning_hidden_shape,15.0,1
