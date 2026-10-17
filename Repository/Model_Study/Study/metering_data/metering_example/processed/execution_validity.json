@@ -1,0 +1,12 @@
+{
+  "actual_energy_primary_preserved": true,
+  "clock_alignment_verified": true,
+  "clock_domain": "classroom_synced_monotonic_clock",
+  "event_timestamp_definition": "node_output_update",
+  "execution_log_valid": true,
+  "frame_timestamp_definition": "frame_acquisition",
+  "physical_lamp_state_continuously_verified": false,
+  "replay_scope": "ideal-actuator condition",
+  "state_series_kind": "applied_output_trace",
+  "steady_state16_verified": true
+}

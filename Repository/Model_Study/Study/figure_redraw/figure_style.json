@@ -1,0 +1,29 @@
+{
+  "version": "FIGURE-STYLE-3",
+  "font_family": "Times New Roman",
+  "font_size_pt": 9,
+  "tick_size_pt": 8.5,
+  "legend_size_pt": 8.5,
+  "title_size_pt": 9.5,
+  "width_mm": 174,
+  "dpi": 800,
+  "line_width_pt": 1.15,
+  "marker_size_pt": 4.0,
+  "colours": {
+    "teal": "#007A78",
+    "blue": "#3569A8",
+    "orange": "#B46B3D",
+    "red": "#B84B3A",
+    "purple": "#8064A2",
+    "grey": "#78838F",
+    "ink": "#222222",
+    "grid": "#E8EBEE"
+  },
+  "legend_location": "reserved row outside data axes",
+  "output_formats": [
+    "png",
+    "svg",
+    "eps",
+    "pdf"
+  ]
+}
