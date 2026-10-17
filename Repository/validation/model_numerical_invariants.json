@@ -1,0 +1,277 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "principal_scale",
+      "passed": true
+    },
+    {
+      "check": "power_and_manual",
+      "passed": true
+    },
+    {
+      "check": "qualified_mixed_bilateral_intervals",
+      "passed": true
+    },
+    {
+      "check": "runtime_interval_contains_declared_D",
+      "passed": true
+    },
+    {
+      "check": "all_control_and_S8_trace_consistency",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R01",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R02",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R03",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R04",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R05",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R06",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R07",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R08",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R09",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R10",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R11",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R12",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R13",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R14",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R15",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R16",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R17",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R18",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R19",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R20",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R21",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R22",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R23",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R24",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R25",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R26",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R27",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R28",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R29",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R30",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R31",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R32",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R33",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R34",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R35",
+      "passed": true
+    },
+    {
+      "check": "main_S8_R36",
+      "passed": true
+    },
+    {
+      "check": "complete_unique_scene_classification",
+      "passed": true
+    },
+    {
+      "check": "paired_outer_bounds",
+      "passed": true
+    },
+    {
+      "check": "superset_power_code_tie_rule",
+      "passed": true
+    },
+    {
+      "check": "invalid_reference_local_manual_and_hold",
+      "passed": true
+    },
+    {
+      "check": "research_labour_includes_dense_grid",
+      "passed": true
+    },
+    {
+      "check": "energy_bound_sum",
+      "passed": true
+    },
+    {
+      "check": "interior_and_shape_failures_detected",
+      "passed": true
+    },
+    {
+      "check": "low_light_sentinel_precision",
+      "passed": true
+    },
+    {
+      "check": "full_sequential_reference_duration",
+      "passed": true
+    },
+    {
+      "check": "identical_states_cancel",
+      "passed": true
+    },
+    {
+      "check": "common_208_point_paired_endpoint",
+      "passed": true
+    },
+    {
+      "check": "all_288_nominal_differences_contained",
+      "passed": true
+    },
+    {
+      "check": "affine_endpoint_box_contains_nominal_fields",
+      "passed": true
+    },
+    {
+      "check": "bounded_full_plane_extension_contained",
+      "passed": true
+    },
+    {
+      "check": "invalid_reference_uses_full_declared_domain",
+      "passed": true
+    },
+    {
+      "check": "same_state_contribution_exact_zero",
+      "passed": true
+    },
+    {
+      "check": "complete_all_reading_results",
+      "passed": true
+    },
+    {
+      "check": "all_reading_contributions_close",
+      "passed": true
+    },
+    {
+      "check": "automatic_exposure_conversion",
+      "passed": true
+    },
+    {
+      "check": "positive_and_negative_qualification_witnesses",
+      "passed": true
+    },
+    {
+      "check": "sentinel_passing_does_not_certify_plane",
+      "passed": true
+    },
+    {
+      "check": "global_shape_bound_is_explicit_independent_condition",
+      "passed": true
+    },
+    {
+      "check": "model_observation_roles_26_plus_62",
+      "passed": true
+    },
+    {
+      "check": "labour_roles_and_totals_match",
+      "passed": true
+    },
+    {
+      "check": "terminal_reconstruction_retains_raw_observations",
+      "passed": true
+    },
+    {
+      "check": "candidate_contexts_use_common_denominator",
+      "passed": true
+    },
+    {
+      "check": "action_denominator_includes_camera_health",
+      "passed": true
+    }
+  ]
+}

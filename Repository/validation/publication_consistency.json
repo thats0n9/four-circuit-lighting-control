@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "primary_software_checks": 3782,
+  "primary_numeric_result_files": 37,
+  "fixed_input_files_preserved": 13,
+  "numerical_scientific_files_preserved": 602,
+  "publication_sources_checked": 76,
+  "manuscript_and_supplements_preserved": true,
+  "main_figures": 7,
+  "main_tables": 7,
+  "observation_tables": 11,
+  "numerical_tables": 40,
+  "authors_consistent": true,
+  "funding_filled": true,
+  "repository_url_filled": true,
+  "full_numerical_pipeline_executed": false,
+  "shared_inputs_stored_once": 95,
+  "published_figures_reproduced": 18,
+  "numerical_result_files_with_equivalence_evidence": 602
+}

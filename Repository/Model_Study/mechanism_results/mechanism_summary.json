@@ -1,0 +1,54 @@
+{
+  "parameter_conditions": 36,
+  "common_input_days": 8,
+  "policy": "PU",
+  "point_count_comparison": "24 minus 12 depth-stratified points",
+  "mean_energy_difference_kWh": -0.01194743885030864,
+  "median_energy_difference_kWh": 0.0,
+  "mean_Jauto_difference_pp": -0.04915737531566784,
+  "median_Jauto_difference_pp": 0.0,
+  "mean_active_changed_pct": 2.3210328701312792,
+  "median_active_changed_pct": 0.0,
+  "conditions_below_screening_scales": 27,
+  "families": [
+    {
+      "family": "true_instant_lower",
+      "description": "Benchmark at instantaneous lower endpoint",
+      "total_conditions": 1620,
+      "feasible_conditions": 1416,
+      "evidence_role": "Numerical controlled comparison; not observed classroom prevalence"
+    },
+    {
+      "family": "true_same_interval",
+      "description": "Benchmark over the same daylight interval",
+      "total_conditions": 1620,
+      "feasible_conditions": 1336,
+      "evidence_role": "Numerical controlled comparison; not observed classroom prevalence"
+    },
+    {
+      "family": "prediction_no_guard",
+      "description": "Prediction without spatial allowance",
+      "total_conditions": 1620,
+      "feasible_conditions": 1313,
+      "evidence_role": "Numerical controlled comparison; not observed classroom prevalence"
+    },
+    {
+      "family": "task_metric_guard",
+      "description": "Task-metric protection",
+      "total_conditions": 1620,
+      "feasible_conditions": 1153,
+      "evidence_role": "Numerical controlled comparison; not observed classroom prevalence"
+    },
+    {
+      "family": "uniform_margin",
+      "description": "Uniform-margin comparator",
+      "total_conditions": 1620,
+      "feasible_conditions": 0,
+      "evidence_role": "Numerical controlled comparison; not observed classroom prevalence"
+    }
+  ],
+  "scope": "Separate controlled numerical mechanisms; no replacement of observed P-policy electricity or steady snapshot endpoints",
+  "P_replay_profiles": 48,
+  "P_identical_replay_traces": 48,
+  "P_max_absolute_replay_energy_difference_kWh": 0.0
+}

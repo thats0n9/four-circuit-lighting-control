@@ -1,0 +1,21 @@
+Numerical pipeline and output navigation
+
+run_study.py is the supported repository entry point. Scientific calculations are implemented in Study using the modules and directories listed below.
+
+1 camera_reference_model.py: derive the common camera_reference camera envelope.
+2 main_analysis.py: spatial fitting, protection, fixed trial profiles and P/PU/DZU replays, producing analysis_results.
+3 action_diagnostics.py: healthy freely controllable frame denominators.
+4 extended_evaluation.py: outside-model optical cases, numerical observation/session sensitivity and fixed steady-state/procedural records.
+5 reference_diagnostics.py: matched S8 reference and orthogonal comparators.
+6 manuscript_values.py: values for manuscript tables and figure inputs.
+7 event_context_analysis.py: common-denominator reading and constrained-period contributions.
+8 quality_analysis.py: conditional paired bounds, analysis of fixed reference/sentinel sequences, metering contrasts and error evidence.
+9 validation_evidence.py: independent-position reconstruction, full-task-plane counterexamples and explicit model/acquisition roles.
+10 verify_analysis.py: 68 declared scientific invariants.
+
+The analysis runner exports the publication data schema and performs a strict file-hash audit. The controller additionally records scientific_comparison.json and execution_report.json. Its comparison code is administrative validation; it does not change scientific outputs.
+Figure drawing is a separate path: Study/figure_redraw/redraw_all.py reads sixteen exact plotting CSVs and a shared style JSON; it does not run control calculations. Outputs are EPS, SVG, PDF and 800 dpi PNG.
+
+Use the supported controller for write-producing analysis modules. It resolves the shared input map and stages complete inputs in an isolated working directory. verify_analysis.py writes a verification JSON to that working directory; the drawing command requires a new output directory.
+
+observation_inputs.py reads fixed CSV and NPZ inputs without modifying them. The nominal terminal/protection path and the sequential/precision path do not draw new observations. Noise perturbations in main_analysis.py and extended_evaluation.py, the off-model optical stress tests, differential-reference response test and constructed counterexamples remain numerical analyses. The schema exporter preserves model and sensitivity descriptions and does not select fields according to words in their values. The supported controller evaluates scientific equality at the declared 1e-12 tolerance; --strict-bytes additionally requires exact file hashes.

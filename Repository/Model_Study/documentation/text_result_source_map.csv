@@ -1,0 +1,2 @@
+﻿document,section,result,data_paths,reproduction,scope
+03_Supplementary_Model_and_Replay_Analyses_EN.docx,S4,"Auxiliary daylight residual-margin exceedance fractions, including 63.94% and 57.93%",Study/auxiliary_diagnostics/all_configuration_daylight_coverage.csv|Study/auxiliary_diagnostics/all_configuration_coverage_summary.csv,python Study/check_daylight_margin.py,416 daylight component values per configuration on the auxiliary grid; separate from dense final validation

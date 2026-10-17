@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "source_and_metadata_files_checked": 355,
+  "primary_entry_point": "Observed_Study/observed_analysis.py",
+  "primary_inputs": "Fixed illuminance, register and applied-output records",
+  "output_diagnostics": "execution_eligible",
+  "primary_metering": "actual_day_eligible",
+  "numerical_entry_point": "Model_Study/run_study.py",
+  "raw_identifiers_retained": true
+}

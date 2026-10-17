@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "manifest": {
+    "status": "passed",
+    "files_checked": 962,
+    "shared_inputs_checked": 95
+  },
+  "software": {
+    "python": "3.12.14",
+    "platform": "win32",
+    "packages": {
+      "llvmlite": "0.50.0",
+      "matplotlib": "3.11.2",
+      "numba": "0.68.0",
+      "numpy": "2.3.5"
+    },
+    "initial_thread_environment": {
+      "OMP_NUM_THREADS": null,
+      "OPENBLAS_NUM_THREADS": null,
+      "MKL_NUM_THREADS": null
+    }
+  },
+  "workers": 4,
+  "science_files": 602,
+  "byte_identical": 596,
+  "numerically_equivalent": 602,
+  "strict_bytes": false,
+  "max_absolute_floating_difference": 2.2737367544323206e-13,
+  "float_absolute_tolerance": 1e-12,
+  "float_relative_tolerance": 1e-12,
+  "elapsed_seconds": 889.8987482999992
+}

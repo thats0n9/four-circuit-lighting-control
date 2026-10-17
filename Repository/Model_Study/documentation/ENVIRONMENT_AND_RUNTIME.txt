@@ -1,0 +1,4 @@
+Numerical analysis environment
+Windows; Python 3.12.14; NumPy 2.3.5; Numba 0.68.0; llvmlite 0.50.0; Matplotlib 3.11.2.
+Numerical reproduction compares 602 archived scientific files at absolute and relative tolerances of 1e-12; discrete values, labels and shapes are exact. Verification checks 68 numerical invariants. Floating-point storage and platform differences may affect byte equality. Full optical/control reproduction and invariant verification are separate commands.
+Install requirements.txt for numerical calculations, requirements_figures.txt for drawing, or requirements_all.txt for both. Times New Roman must be installed or supplied through --font-dir. New output directories are required. Use --workers 1 when memory is limited.

@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "manifest": {
+    "status": "passed",
+    "files_checked": 964,
+    "shared_inputs_checked": 95
+  },
+  "invariants_passed": 68,
+  "data_catalog": {
+    "status": "passed",
+    "data_files_verified": 889,
+    "dictionary_rows_verified": 4411,
+    "publication_entries_verified": 49,
+    "summary": {
+      "csv_data_files": 126,
+      "npz_data_files": 673,
+      "json_data_files": 90,
+      "total_data_files": 889,
+      "dictionary_rows": 4411,
+      "paper_output_entries": 49
+    }
+  },
+  "software": {
+    "python": "3.12.14",
+    "platform": "win32",
+    "packages": {
+      "llvmlite": "0.50.0",
+      "matplotlib": "3.11.2",
+      "numba": "0.68.0",
+      "numpy": "2.3.5"
+    },
+    "initial_thread_environment": {
+      "OMP_NUM_THREADS": null,
+      "OPENBLAS_NUM_THREADS": null,
+      "MKL_NUM_THREADS": null
+    }
+  },
+  "elapsed_seconds": 3.173877100000027,
+  "scope": "Archive integrity and numerical invariant checks"
+}

@@ -1,0 +1,4827 @@
+{
+  "science_files": 602,
+  "byte_identical": 596,
+  "numerically_equivalent": 602,
+  "float_absolute_tolerance": 1e-12,
+  "float_relative_tolerance": 1e-12,
+  "nonfloating_comparison": "Exact integers, Boolean flags, categorical strings, field names, shapes and dtypes",
+  "max_absolute_floating_difference": 2.2737367544323206e-13,
+  "files": [
+    {
+      "file": "analysis_results/action_health_denominator_audit.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/all_reading_quality_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/all_reading_quality_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/camera_boundary_probes.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/camera_interval_qualification.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/camera_interval_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/commissioning_decision_screen.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/commissioning_decision_uncertainty.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/commissioning_labour_budget.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/commissioning_labour_scope.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/conditional_replay_quality_envelope.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/controlled_feasibility_family.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/controlled_feasibility_family_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/current_contrasts_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/current_control_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/current_design_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/current_feasibility_scan.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/current_scene_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/decision_examples_16_states.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/decision_examples_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/energy_day_allocation.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/energy_fixed_bound_components.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/energy_precision_grid.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/energy_statistics_definition.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/feasibility_runtime_layers.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/field_mixed_additivity_records.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/field_night_sequence.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/field_sequential_daylight_records.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/field_stability_sessions.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/field_terminal_night_records.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261340.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261341.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261342.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261343.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261344.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261345.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261346.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_20261347.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/input_day_exposure_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/leave_one_input_day_out_screen.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/matched_competitive_baseline.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/off_model_metric_coverage.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/off_model_parameters.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/off_model_spatial_metrics.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paired_bound_metric_details.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paired_grid_validation.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paired_nonzero_example.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paired_point_endpoint_validation.csv",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 146,
+      "max_absolute_floating_difference": 1.7053025658242404e-13,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paired_quality_envelopes.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/paper_values.json",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/protection_metric_parameters.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/protection_metric_terminal_coverage.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/protection_parameters.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/protection_terminal_coverage.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/protocol_counts.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/qualified_control_replay_audit.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R01_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R02_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R03_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_angular_1p6_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_orthogonal_oracle_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R04_window_nonuniform_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R05_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R06_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R07_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R08_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R09_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R10_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R11_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R12_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R13_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R14_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R15_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_angular_1p6_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_orthogonal_oracle_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R16_window_nonuniform_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R17_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R18_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R19_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R20_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R21_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R22_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R23_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R24_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R25_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R26_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R27_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_angular_1p6_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_orthogonal_oracle_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R28_window_nonuniform_optical_inputs.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R29_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R30_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R31_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R32_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R33_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R34_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R35_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D01_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D02_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D03_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D04_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D05_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D06_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D07_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_D08_all_policy_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_final_validation.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_lookups.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_protection_observations.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/R36_terminal_reconstruction.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/reading_quality_event_context.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/reading_quality_event_context_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/reference_differential_validation.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/S8_current_reference_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/S8_current_reference_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/S8_orthogonal_oracle_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/S8_orthogonal_oracle_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/scenario_candidate_features.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sentinel_full_plane_counterexample_arrays.npz",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 160,
+      "max_absolute_floating_difference": 5.551115123125783e-17,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sentinel_full_plane_counterexamples.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sentinel_precision_raw_samples.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sentinel_precision_validation.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_error_domain.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_full_reference_traces.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_reference_internal_records.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_sentinel_raw_samples.npz",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_session_qualification.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/sequential_shape_sentinels.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/session_sensitivity_contrasts.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/session_sensitivity_coverage.csv",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 239,
+      "max_absolute_floating_difference": 1.1368683772161603e-13,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/session_sensitivity_daily.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/spatial_metrics.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/spatial_model_definition.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/spatial_noise_replicates.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/summary.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/terminal_evaluation_roles.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/terminal_qualification_example_details.csv",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 3985,
+      "max_absolute_floating_difference": 2.2737367544323206e-13,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/terminal_qualification_examples.csv",
+      "byte_identical": false,
+      "numerically_equivalent": true,
+      "different_floating_values": 2,
+      "max_absolute_floating_difference": 5.684341886080802e-14,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/terminal_reconstruction_contrasts.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/terminal_reconstruction_diagnostics.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "analysis_results/verification.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R01_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R02_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R03_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R04_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R05_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R06_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R07_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R08_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R09_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R10_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R11_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R12_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R13_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R14_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R15_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R16_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R17_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R18_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R19_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R20_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R21_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R22_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R23_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R24_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R25_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R26_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R27_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R28_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R29_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R30_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R31_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R32_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R33_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R34_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R35_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/R36_reference_calibration.json",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/reference_envelope_design_scan.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    },
+    {
+      "file": "camera_reference/reference_envelope_summary.csv",
+      "byte_identical": true,
+      "numerically_equivalent": true,
+      "different_floating_values": 0,
+      "max_absolute_floating_difference": 0.0,
+      "failures": []
+    }
+  ]
+}

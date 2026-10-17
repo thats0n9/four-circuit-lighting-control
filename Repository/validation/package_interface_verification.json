@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "primary_checks": 3782,
+  "numerical_invariants": 68,
+  "model_data_catalog_files": 889,
+  "model_dictionary_rows": 4411,
+  "model_publication_source_entries": 49,
+  "primary_dictionary_fields": 2232,
+  "primary_results_byte_unchanged": 37,
+  "numerical_results_byte_unchanged": 602,
+  "png_figures_byte_identical": 18,
+  "edge_cases_verified": 6,
+  "full_numerical_pipeline_reexecuted": false,
+  "numerical_kernels_byte_unchanged": 27,
+  "full_numerical_comparison_evidence_retained": true
+}

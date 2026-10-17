@@ -1,0 +1,254 @@
+[
+  {
+    "case": "R06",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 128
+  },
+  {
+    "case": "R01",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 136
+  },
+  {
+    "case": "R03",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 144
+  },
+  {
+    "case": "R05",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 152
+  },
+  {
+    "case": "R02",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 168
+  },
+  {
+    "case": "R04",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 176
+  },
+  {
+    "case": "R08",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 200
+  },
+  {
+    "case": "R11",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 176
+  },
+  {
+    "case": "R09",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 200
+  },
+  {
+    "case": "R07",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 224
+  },
+  {
+    "case": "R10",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 208
+  },
+  {
+    "case": "R12",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 232
+  },
+  {
+    "case": "R13",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 48
+  },
+  {
+    "case": "R16",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 56
+  },
+  {
+    "case": "R15",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 120
+  },
+  {
+    "case": "R14",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 136
+  },
+  {
+    "case": "R17",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 128
+  },
+  {
+    "case": "R18",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 120
+  },
+  {
+    "case": "R19",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 96
+  },
+  {
+    "case": "R20",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 200
+  },
+  {
+    "case": "R22",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 136
+  },
+  {
+    "case": "R21",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 168
+  },
+  {
+    "case": "R24",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 224
+  },
+  {
+    "case": "R23",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 248
+  },
+  {
+    "case": "R25",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 8
+  },
+  {
+    "case": "R26",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 24
+  },
+  {
+    "case": "R28",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 8
+  },
+  {
+    "case": "R27",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 72
+  },
+  {
+    "case": "R29",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 24
+  },
+  {
+    "case": "R30",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 56
+  },
+  {
+    "case": "R31",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 16
+  },
+  {
+    "case": "R32",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 40
+  },
+  {
+    "case": "R34",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 24
+  },
+  {
+    "case": "R33",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 88
+  },
+  {
+    "case": "R35",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 104
+  },
+  {
+    "case": "R36",
+    "fast_evaluator_equal": 1,
+    "frozen12_fit_and4lookup_equal": true,
+    "frozen_traces_bit_equal": 8,
+    "unique_lookup_day_runs": 192
+  }
+]

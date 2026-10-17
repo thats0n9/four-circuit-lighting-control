@@ -1,0 +1,100 @@
+{
+  "action_diagnostics": [
+    "analysis_core",
+    "analysis_engine",
+    "main_analysis"
+  ],
+  "analysis_core": [
+    "analysis_engine",
+    "camera_reference_model",
+    "observation_inputs",
+    "spatial_fitting"
+  ],
+  "analysis_engine": [],
+  "application_study": [
+    "observation_inputs"
+  ],
+  "camera_reference_model": [
+    "spatial_fitting"
+  ],
+  "check_daylight_margin": [],
+  "commissioning_methods": [
+    "application_study"
+  ],
+  "event_context_analysis": [
+    "analysis_core",
+    "analysis_engine"
+  ],
+  "execution_validation": [
+    "metering_statistics"
+  ],
+  "export_data_schema": [],
+  "extended_evaluation": [
+    "analysis_core",
+    "analysis_engine",
+    "observation_inputs"
+  ],
+  "light_field_model": [
+    "application_study"
+  ],
+  "main_analysis": [
+    "analysis_core",
+    "analysis_engine"
+  ],
+  "manuscript_values": [
+    "analysis_core"
+  ],
+  "metering_analysis": [
+    "execution_validation",
+    "metering_statistics"
+  ],
+  "metering_statistics": [
+    "light_field_model"
+  ],
+  "observation_inputs": [
+    "input_storage"
+  ],
+  "paired_quality_bounds": [
+    "analysis_core",
+    "quality_analysis"
+  ],
+  "quality_analysis": [
+    "analysis_core",
+    "analysis_engine",
+    "metering_analysis",
+    "observation_inputs",
+    "paired_quality_bounds"
+  ],
+  "reference_calibration": [
+    "application_study",
+    "commissioning_methods"
+  ],
+  "reference_diagnostics": [
+    "analysis_core"
+  ],
+  "run_analysis": [
+    "export_data_schema",
+    "input_storage"
+  ],
+  "sensitivity_methods": [
+    "application_study"
+  ],
+  "spatial_fitting": [
+    "application_study",
+    "commissioning_methods",
+    "light_field_model",
+    "reference_calibration",
+    "sensitivity_methods"
+  ],
+  "validation_evidence": [
+    "analysis_core",
+    "analysis_engine"
+  ],
+  "verify_analysis": [
+    "analysis_core",
+    "analysis_engine",
+    "quality_analysis"
+  ],
+  "input_storage": [],
+  "verify_data_catalog": []
+}

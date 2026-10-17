@@ -1,0 +1,9 @@
+﻿publication_label,archive_code,scope,meaning
+DZU,DU,Study/analysis_results and Study/figure_redraw/data/Fig6_binning.csv,"Daylight-responsive zonal union with global quality check, superset repair and PU fallback; not an unrepaired union"
+Depth-stratified,depth,Spatial configuration fields,Depth-stratified sampling layout
+Distributed,area,Spatial configuration fields,Distributed sampling layout
+Window-clustered,window,Spatial configuration fields,Window-clustered sampling layout
+Analytic baseline,original,Matched spatial model comparisons,Author-constructed point-source/diffuse baseline
+Improved model,improved,Matched spatial model comparisons,Non-negative circuit offsets and finite-window daylight representation
+Uniform-margin protection,legacy,family field in Study/analysis_results/S8_current_reference_summary.csv and Study/figure_redraw/data/Fig6_binning.csv,"Comparator with a uniform error margin under the same state-compensated reference; this code identifies a protection family, not a manuscript revision"
+Task-metric protection,current,family field in Study/analysis_results/S8_current_reference_summary.csv and Study/figure_redraw/data/Fig6_binning.csv,"Protection based on task-metric error allowances under the same state-compensated reference; this code identifies a protection family, not a manuscript revision"

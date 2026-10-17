@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "figures": [
+    {
+      "figure": "Figure 1",
+      "png_sha256": "a75137f219c4e9c525b058e0935b0b127e0ad6a558e5a07abe25f85e65de01dd"
+    },
+    {
+      "figure": "Figure 2",
+      "png_sha256": "c1da8263cf51549b45ba7d497fd69af4d0956d8c7fc840508bf097f5fc01119c"
+    },
+    {
+      "figure": "Figure 3",
+      "png_sha256": "9bd73c3db02e70057c9305312b0b82a93907f6461030888796bb7615bb3d378f"
+    },
+    {
+      "figure": "Figure 4",
+      "png_sha256": "82ef16e2b02ad22f751750f1c4247e203762d801e5d9abf14611f15bd050f56f"
+    },
+    {
+      "figure": "Figure 5",
+      "png_sha256": "0fa3518edda0d8abe788f5c611e2d2fecc62c6b78c482aa886b7dd641d39bd09"
+    },
+    {
+      "figure": "Figure 6",
+      "png_sha256": "894ab346c3e7197490dedeea48a6b2c4eb53c837f5a5172dc0db868c1f769e0c"
+    },
+    {
+      "figure": "Figure 7",
+      "png_sha256": "3cbab2a1353fe4f5031d0bbeb5af346ce8f9f25fad46fa6f65d2fac63725153a"
+    },
+    {
+      "figure": "Fig1_execution_node_english",
+      "png_sha256": "a75137f219c4e9c525b058e0935b0b127e0ad6a558e5a07abe25f85e65de01dd"
+    },
+    {
+      "figure": "Fig2_layouts_and_independent_sets",
+      "png_sha256": "59a8e4240d2a7e70aec4d7fe8dd27bef253a8194cc36a6daa995448b2cfa8261"
+    },
+    {
+      "figure": "Fig3_prediction",
+      "png_sha256": "36e4c1784f5e7fcbe97fb8d2d9fbbe1eea93763e9c1832cc110ca7bb4b034ba1"
+    },
+    {
+      "figure": "Fig4_feasibility",
+      "png_sha256": "5f38f033234fcb0cf9d083481571f2baf68ed46a8f58a50d8248b8b206a74080"
+    },
+    {
+      "figure": "Fig5_point_value",
+      "png_sha256": "41a7bdf1684a94ac393a4ff0c361889d5ef730c8e312379d0ba7ebbf41e06809"
+    },
+    {
+      "figure": "Fig6_baselines_and_bins",
+      "png_sha256": "669373b95e66a09ff52f268f08a0531746275e8fe169ef3f00ecfe99b947037a"
+    },
+    {
+      "figure": "Fig7_paired_quality_observability",
+      "png_sha256": "b37248405ba899a705a673caf6318f591f057e2735dfc2bd74927aa6ae08425f"
+    },
+    {
+      "figure": "FigS1_acceptance_matrix",
+      "png_sha256": "944b53c9994ed2b386f5ec44878db49417a3c3c0e98a621f0f0cab97329048b5"
+    },
+    {
+      "figure": "FigS2_independence_and_precision",
+      "png_sha256": "72675143c7c72a71766504558f958b5211c13be8a303dc906580c49f8ee6339a"
+    },
+    {
+      "figure": "FigS3_sentinel_full_plane_counterexample",
+      "png_sha256": "24303708e831cf68d5eca5cc2257840aaba50b30edb46757462786688bdc04c9"
+    },
+    {
+      "figure": "FigS4_sequential_qualification",
+      "png_sha256": "454066d756f5eaf008e559f780b5c1ca1345f0a8d8a410dc51191dab0904581e"
+    }
+  ]
+}

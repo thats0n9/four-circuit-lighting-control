@@ -1,0 +1,6 @@
+﻿family,description,total_conditions,feasible_conditions,evidence_role
+true_instant_lower,Benchmark at instantaneous lower endpoint,1620,1416,Numerical controlled comparison; not observed classroom prevalence
+true_same_interval,Benchmark over the same daylight interval,1620,1336,Numerical controlled comparison; not observed classroom prevalence
+prediction_no_guard,Prediction without spatial allowance,1620,1313,Numerical controlled comparison; not observed classroom prevalence
+task_metric_guard,Task-metric protection,1620,1153,Numerical controlled comparison; not observed classroom prevalence
+uniform_margin,Uniform-margin comparator,1620,0,Numerical controlled comparison; not observed classroom prevalence

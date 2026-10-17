@@ -1,0 +1,30 @@
+Analysis dependency inventory
+
+action_diagnostics
+analysis_core
+analysis_engine
+application_study
+camera_reference_model
+check_daylight_margin
+commissioning_methods
+event_context_analysis
+execution_validation
+export_data_schema
+extended_evaluation
+light_field_model
+main_analysis
+manuscript_values
+metering_analysis
+metering_statistics
+observation_inputs
+paired_quality_bounds
+quality_analysis
+reference_calibration
+reference_diagnostics
+run_analysis
+sensitivity_methods
+spatial_fitting
+validation_evidence
+verify_analysis
+
+The inventory covers the supported analysis pipeline, its fixed-input reader, input_storage shared-file resolver and the separate auxiliary checker. Local imports are recorded in dependency_graph.json; file hashes are in code_inventory.csv. Figure redrawing uses the separate Study/figure_redraw/redraw_all.py entry point and the supplied plotting tables.

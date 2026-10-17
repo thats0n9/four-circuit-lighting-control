@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "primary_raw_files_unchanged": 13,
+  "primary_result_files_byte_identical": 37,
+  "archived_model_scientific_files_byte_identical": 602,
+  "shared_inputs_consolidated": 95,
+  "shared_input_negative_checks": 3,
+  "primary_dictionary": {
+    "status": "passed",
+    "fields_checked": 2232,
+    "files_checked": 48
+  },
+  "publication_sources_checked": 76,
+  "figure_pngs_byte_identical": 18,
+  "submission_scientific_files_preserved": 26,
+  "main_manuscript_and_observation_supplement_byte_unchanged": true,
+  "model_supplement_storage_paths_updated": 3,
+  "shared_supplement_figure": "04_Main_Figures/Figure_01.tif",
+  "metadata": {
+    "analysis_input_roles.csv": 92,
+    "data_files.csv": 889,
+    "model_dictionary_rows": 4411,
+    "exact_duplicate_dictionary_rows_removed": 0
+  }
+}

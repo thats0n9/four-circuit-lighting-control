@@ -1,0 +1,19 @@
+Data roles and units
+
+data_files.csv indexes the scientific CSV, NPZ and JSON files. data_dictionary.csv describes their CSV columns, NPZ arrays and recursively flattened JSON field families. Operational manifests and Study/input_storage_map.json are documented separately. Shared inputs use their canonical storage paths; the storage map links logical numerical input names to those paths and their hashes. Rxx and Dxx denote case/day filename families. Array shapes are preserved per family, and repeated case-dependent shapes form distinct dictionary rows. Empty or categorical fields are retained.
+
+Illuminance is in lx; coordinates are in m; time is in s or h as named; power is W or kW. Daily lighting energy covers the declared 14-hour evaluation window. Daily means and paired energy contrasts use kWh per evaluated day; cumulative meter-register values and meter quantisation use kWh. Percentage fields use percent, while differences ending in pp use absolute percentage points. Ratios, reflectance, uniformity and gains are dimensionless. Identifier/flag fields carry no physical unit. Some mixed coefficient arrays combine a dimensionless gain with an lx offset; their column meanings are specified separately.
+
+Jauto uses automatic reading-zone exposure and excludes manual-off reading demand. J uses all reading-zone exposure. Automatic and manual contributions are expressed against the same total denominator. Effective action changes use a separate healthy and freely controllable frame denominator. See Tables S10–S13 and action_health_denominator_audit.csv.
+
+The 69 protection positions, 208 final-validation positions and 24 implementation-check positions have distinct roles. Raw observation backgrounds are 0, 200 and 500 lx; the 0–1260 lx scan and all-day benchmark are affine model evaluations. Reconstructed observation-based quality is a separate sensitivity path. See terminal_evaluation_roles.json and Tables S4–S8.
+
+A sentinel/reference session screen is not a full-task-plane bound. Paired outer bounds are conditional on the declared temporal and spatial shape conditions and account for cancellation under identical executed states. See Tables S23–S25 and sequential_error_domain.json.
+
+The forty-eight-day metering dataset uses mean/minimum policy P, separately from the numerical PU comparison. Fixed energy-error terms remain separate from daily random variation. See energy_statistics_definition.json and Tables S29–S30.
+
+Fixed observation records, prescribed trial profiles, numerical benchmark fields and sensitivity outputs have distinct analysis roles. Numeric precision and stable record identifiers are preserved. The primary analysis reads fixed inputs; random draws are restricted to the documented numerical sensitivity and stress tests. Type and shape describe the file schema; they do not establish instrument resolution or independent-sample counts. A generic numeric code is interpreted using its linked table, definition JSON and row context.
+
+Section S4 auxiliary daylight-margin fractions use 416 component values per configuration on their own 208-position grid and two backgrounds. They are not pooled with the dense final-validation acceptance results. See auxiliary_diagnostics/README.txt and text_result_source_map.csv.
+
+Publication labels and stored categorical codes are mapped in publication_code_aliases.csv. In analysis_results and model-supplement Figure M6 plotting data, DU is the stored code for DZU with global repair.

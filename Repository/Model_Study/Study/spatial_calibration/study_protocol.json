@@ -1,0 +1,31 @@
+{
+  "control": "same5Hz confirmation5frames,60s off delay,10s dwell,manual priority; night fixed-zone union and joint daylight selection",
+  "counts": [
+    8,
+    12,
+    16,
+    24
+  ],
+  "day_sessions": "4 fit,2 temporal holdout;100/250/500/800 lx",
+  "independent_points": 208,
+  "input_days": 8,
+  "layouts": {
+    "area": "zone-balanced geometric maximin",
+    "depth": "nested near/centre/far then geometric maximin",
+    "window": "zone-balanced geometric maximin restricted x<=3/11 L"
+  },
+  "methods": [
+    "original",
+    "improved"
+  ],
+  "n_scenarios": 36,
+  "night_sessions": "2 fit, 2 margin; all16 states",
+  "noise_replicates": 10,
+  "noise_scope": "numerical noise-perturbation sensitivity of spatial fits",
+  "primary_reporting": "36-scenario descriptive mean/range, days paired within scenario; not independent36buildings",
+  "reference": "camera_reference for current operation and all S8 comparisons",
+  "selection": "fixed layout positions and comparison settings shared across the formal analysis",
+  "time_assumption": "30 seconds per reading plus20 seconds relocation per point-state/group; excludes settling/wait/reference/hardware time",
+  "title": "Effects of commissioning with sparse measurement points on the performance of four-circuit lighting control in existing classrooms",
+  "validation": "fixed 208 positions x16 states x0/200/500 lx observations; benchmark evaluations reported separately"
+}
