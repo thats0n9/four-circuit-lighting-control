@@ -1,0 +1,6 @@
+﻿family,total_conditions,feasible_conditions
+prediction_no_guard,1620,1313
+true_same_interval,1620,1336
+task_metric_guard,1620,1153
+uniform_margin,1620,0
+true_instant_lower,1620,1416

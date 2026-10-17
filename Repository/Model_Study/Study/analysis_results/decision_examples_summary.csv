@@ -1,0 +1,6 @@
+﻿example,request,forced_on,forced_off,single_zone_seeds,constrained_union,PU,DZU,strict_feasible
+global_feasible,15,0,0,5|5|5|5,5,5,5,1
+single_zone_infeasible,12,0,0,8|1,9,8,8,0
+global_infeasible,15,0,0,15|15|15|15,15,15,15,0
+manual_locked,14,8,1,5|5|5,12,10,10,1
+multiple_feasible_supersets,12,0,0,1|2,3,11,11,1

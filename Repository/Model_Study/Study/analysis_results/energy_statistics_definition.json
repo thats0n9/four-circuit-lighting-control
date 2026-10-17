@@ -1,0 +1,36 @@
+{
+  "HC3_CI": [
+    -0.42979068460470143,
+    0.12979068460469517
+  ],
+  "SE_kWh": 0.11426477757357703,
+  "allocation": "fixed recorded within-block sequences; not randomised; each block contains all four policies",
+  "confidence_level": 0.95,
+  "df": 33,
+  "estimate_kWh": -0.15000000000000313,
+  "expanded_interval": [
+    -0.5394268065882495,
+    0.23942680658824322
+  ],
+  "fixed_bound_kWh": 0.15695352400408588,
+  "initial_state": "all circuits off; independent controller state each 14 h day",
+  "n": 48,
+  "parameters": {
+    "calibration_endpoint_time_halfwidth_s": 1,
+    "common_gain_halfwidth": 0.01,
+    "day_endpoint_time_halfwidth_s": 1,
+    "heartbeat_period_s": 10,
+    "log_event_time_halfwidth_s": 0.2,
+    "meter_boundary_power_upper_kW": 0.75,
+    "residual_drift_halfwidth": 0.001,
+    "resolution_kWh": 0.01,
+    "state_bias_halfwidth": 0.01
+  },
+  "primary_assumptions": "block plus strategy additive mean, independent day residuals with common variance; HC3 sensitivity reported",
+  "rank": 15,
+  "residual_SD_kWh": 0.2798904006278783,
+  "t_CI": [
+    -0.3824732825841636,
+    0.08247328258415734
+  ]
+}

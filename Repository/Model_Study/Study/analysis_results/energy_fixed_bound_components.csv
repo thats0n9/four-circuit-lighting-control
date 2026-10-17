@@ -1,0 +1,7 @@
+﻿component,value_kWh
+quantization_fixed_bound_kWh,0.02
+clock_fixed_bound_kWh,0.0008333333333333333
+common_gain_fixed_bound_kWh,0.0015321756894790923
+state_bias_worst_fixed_bound_kWh,0.12235274089206676
+residual_drift_fixed_bound_kWh,0.012235274089206676
+sum,0.15695352400408585

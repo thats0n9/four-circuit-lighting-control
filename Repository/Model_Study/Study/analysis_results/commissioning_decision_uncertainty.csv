@@ -1,0 +1,37 @@
+﻿case,comparison,Jauto_difference_pp,energy_difference_kWh,active_changed_pct,both_protection_qualified,decision,extra_point_readings,extra_point_labour_hours,paired_lower_delta_J_pp,paired_upper_delta_J_pp,quality_improvement_identified,quality_noninferiority_identified,interpretation
+R01,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R02,depth24_minus_depth12_PU,0.0022201682625364594,-0.08006781944444352,6.28536891059992,1,energy_gain_candidate_pending_meter_precision,1056,14.666666666666666,-2.62476983117833,2.62476983117833,0,0,conditional on independent full-plane shape bound; nominal design candidate only
+R03,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R04,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R05,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R06,depth24_minus_depth12_PU,0.001976242925050331,-0.0035285763888888155,8.957042026441188e-05,1,no_increment_above_declared_scales,1056,14.666666666666666,-0.08879918209892809,0.17944285759456982,0,1,descriptive design result
+R07,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R08,depth24_minus_depth12_PU,0.0011117394928325947,-0.0221146527777778,7.870576115022315,1,no_increment_above_declared_scales,1056,14.666666666666666,-4.041649556134885,4.041649556134885,0,0,descriptive design result
+R09,depth24_minus_depth12_PU,-0.0013801494985234176,8.68055555613978e-06,3.156307100068527,1,no_increment_above_declared_scales,1056,14.666666666666666,-1.4564054656905514,1.453741109713459,0,0,descriptive design result
+R10,depth24_minus_depth12_PU,-0.5181651344044998,-0.21559442361111092,28.426900285364596,1,quality_gain_candidate,1056,14.666666666666666,-28.6423954040061,28.6423954040061,0,0,conditional on independent full-plane shape bound; nominal design candidate only
+R11,depth24_minus_depth12_PU,-0.0016674168983516618,-0.0017737361111107575,27.8047437114517,1,no_increment_above_declared_scales,1056,14.666666666666666,-27.66498630411067,27.66498630411067,0,0,descriptive design result
+R12,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R13,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R14,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R15,depth24_minus_depth12_PU,-0.24803119209388508,0.00412270833333217,8.660768106201803e-05,1,quality_gain_candidate,1056,14.666666666666666,-0.2480311920938851,0.2480311920938851,0,0,conditional on independent full-plane shape bound; nominal design candidate only
+R16,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R17,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R18,depth24_minus_depth12_PU,0.0,0.0,0.0,0,protection_not_qualified,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R19,depth24_minus_depth12_PU,0.00027467690979254833,-0.0826427361111115,6.424574499149238,0,protection_not_qualified,1056,14.666666666666666,-2.693273847797725,2.693273847797725,0,0,descriptive design result
+R20,depth24_minus_depth12_PU,0.0,0.0,0.0,0,protection_not_qualified,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R21,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R22,depth24_minus_depth12_PU,0.0,0.0,0.0,0,protection_not_qualified,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R23,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R24,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R25,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R26,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R27,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R28,depth24_minus_depth12_PU,0.407604418666196,-0.04341774305555646,3.588449001599705,1,quality_worsens,1056,14.666666666666666,-2.510499489606541,2.5168920776470505,0,0,descriptive design result
+R29,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R30,depth24_minus_depth12_PU,-1.41360886472519,0.014900500000000427,8.752336873945344e-05,1,quality_gain_candidate,1056,14.666666666666666,-1.4136088647251903,1.4136088647251903,0,0,conditional on independent full-plane shape bound; nominal design candidate only
+R31,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R32,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R33,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R34,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R35,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
+R36,depth24_minus_depth12_PU,0.0,0.0,0.0,1,no_increment_above_declared_scales,1056,14.666666666666666,0.0,0.0,0,1,descriptive design result
