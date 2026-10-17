@@ -1,0 +1,18 @@
+{
+  "baseline_day": "exp(c0+c1*x+c2*ycenter+c3*ycenter^2); unweighted least squares on log measured slope; c unrestricted",
+  "baseline_identity": "author-constructed analytic gain plus four-parameter exponential daylight baseline; not a named commercial controller",
+  "baseline_lamp": "Hhat_j=a_j*H0_j; unweighted least squares a_j>=0",
+  "circuit_prior": "H0_j(p)=sum of 4 circuit point-source terms plus 0.12 times direct circuit mean at frozen 81-point planning grid",
+  "estimating_readings_per_point": 26,
+  "improved_day": "alpha*G(p)+beta; unweighted nonnegative least squares alpha,beta>=0",
+  "improved_lamp": "Hhat_j=a_j*H0_j+b_j; unweighted nonnegative least squares a_j,b_j>=0",
+  "layout_protocol_readings_per_point": 88,
+  "model_roles": "numerical radiosity benchmark, fitted spatial basis and fixed independent-position observations have distinct roles",
+  "night_response": "average of first two sessions single-circuit minus all-off reading at each fit point",
+  "point_source": "K_l(p)=4680/pi*h^2/(horizontal_distance_l_squared+h_squared)^2; h=ceiling-0.75",
+  "reference_normalization": "true d(p)=daylight component at p divided by total daylight at (.5*L/11,W/2,0.75); fitted d need not equal 1 at reference",
+  "slope_response": "unweighted through-origin slope from first four sessions x four measured-reference levels",
+  "validation_readings_per_point": 62,
+  "window_basis": "G(p)=finite-window direct coupling with 16x8 quadrature and source weights; raw basis not reference-normalized; alpha absorbs scale",
+  "y_center": "y minus maximum planning-grid y / 2 (not width/2)"
+}

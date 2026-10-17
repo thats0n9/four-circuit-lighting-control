@@ -1,0 +1,21 @@
+{
+  "measured_levels_distinct_from_model_sweep": true,
+  "model_evaluation_domain_lx": [
+    0,
+    1260
+  ],
+  "nominal_quality": "same independent-position benchmark at held 1Hz daylight; 5Hz actual output state",
+  "paired_bounds": "both predictions evaluated at same 208 positions; 52 equal-weight points per task zone",
+  "points_per_zone": 52,
+  "positions": 208,
+  "prediction_error": "prediction minus independent noisy observation; no reconstructed field substituted",
+  "qualification": "frozen prediction and guards compared with independent-position noisefree benchmark field",
+  "raw_levels_lx": [
+    0,
+    200,
+    500
+  ],
+  "raw_readings": 9984,
+  "reconstruction": "N_s(p)=Y_0,s,p; d_rec(p)=max(0,sum_D,s D*(Y_D,s,p-Y_0,s,p)/(16*sum_D D^2)); levels 200 and 500",
+  "reconstruction_use": "secondary sensitivity at same output traces; extrapolation to 1260 conditional on affine response"
+}

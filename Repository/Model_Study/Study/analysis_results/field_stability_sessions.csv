@@ -1,0 +1,16 @@
+﻿case,session,target_reference_lx,total,eligible,decision,repeat_of_session,interpolation,maximum_unbracketed_gap_s
+R04,1,200.0,24,24,accept,0,bracketed_linear,150
+R04,2,500.0,24,24,accept,0,bracketed_linear,150
+R04,3,800.0,24,24,accept,0,bracketed_linear,150
+R04,4,500.0,24,6,discard_session_and_repeat,0,bracketed_linear,150
+R04,5,500.0,24,24,accept,4,bracketed_linear,150
+R16,1,200.0,24,24,accept,0,bracketed_linear,150
+R16,2,500.0,24,24,accept,0,bracketed_linear,150
+R16,3,800.0,24,24,accept,0,bracketed_linear,150
+R16,4,500.0,24,3,discard_session_and_repeat,0,bracketed_linear,150
+R16,5,500.0,24,24,accept,4,bracketed_linear,150
+R28,1,200.0,24,24,accept,0,bracketed_linear,150
+R28,2,500.0,24,24,accept,0,bracketed_linear,150
+R28,3,800.0,24,24,accept,0,bracketed_linear,150
+R28,4,500.0,24,0,discard_session_and_repeat,0,bracketed_linear,150
+R28,5,500.0,24,24,accept,4,bracketed_linear,150

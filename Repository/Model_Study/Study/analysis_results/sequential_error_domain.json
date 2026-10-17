@@ -1,0 +1,14 @@
+{
+  "allowed_nominal_family": "fixed separable affine daylight fields; full-plane bound holds with rho=0",
+  "bounded_extension": "any nonnegative daylight field within explicitly assumed 7% time and 5% full-point multiplicative bounds",
+  "bump_definition": "product of squared normalized distances to near sentinel, far sentinel and reference, normalized by maximum over 208 points",
+  "combined_term": 0.125,
+  "false_inference_counterexamples": 6,
+  "global_shape_term": 0.05,
+  "outside_extension": "hidden spatial or recovering bumps above 5%; excluded from conditional outer-bound interpretation even if screen passes",
+  "scalar_reference": "fixed near-window workplane location",
+  "sentinel_use": "screen obvious departures; do not grant full-plane validity",
+  "spatial_role": "independent condition |rho(p,t)|<=0.05 at every evaluated task point and sampling time; not inferred from two sentinels",
+  "temporal_role": "conditional 7% full sampling interval bound; observed reference checks alone do not establish unobserved evolution",
+  "time_term": 0.07
+}

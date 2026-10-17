@@ -1,0 +1,16 @@
+﻿case,session,kind,endpoint_rule_pass,interior_max_residual_pct,sentinel_max_change_pct,session_screen_pass,disposition,repeat_of_session
+R04,1,steady,1,1.8518942439644743,1.59672551428095,1,accept,0
+R04,2,returning_cloud,1,14.45409156892289,0.23340509287763656,0,discard_entire_session_repeat,0
+R04,3,spatial_shape,1,1.7798108478868961,7.391539108017864,0,discard_entire_session_repeat,0
+R04,4,steady_repeat,1,1.686828367427124,1.4092908564407924,1,accept,2
+R04,5,steady_repeat,1,2.01471953197801,0.45670054475508426,1,accept,3
+R16,1,steady,1,1.575226550411855,0.8212424946956176,1,accept,0
+R16,2,returning_cloud,1,12.708839717061487,0.895249566659162,0,discard_entire_session_repeat,0
+R16,3,spatial_shape,1,1.5324863409310687,7.487151732722741,0,discard_entire_session_repeat,0
+R16,4,steady_repeat,1,1.5825180063959405,1.5501378978644897,1,accept,2
+R16,5,steady_repeat,1,2.199725001045829,0.5307553329882309,1,accept,3
+R28,1,steady,1,1.670463762395808,0.3589168929225228,1,accept,0
+R28,2,returning_cloud,1,13.348888842493976,0.27948139179878595,0,discard_entire_session_repeat,0
+R28,3,spatial_shape,1,1.6606630753886469,7.962886731708685,0,discard_entire_session_repeat,0
+R28,4,steady_repeat,1,1.766128104458333,1.5083063272303021,1,accept,2
+R28,5,steady_repeat,1,1.6185924042052466,0.9372203680502622,1,accept,3
