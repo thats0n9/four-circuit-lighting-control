@@ -238,6 +238,8 @@ def main():
     save(destination/'execution_report.json',dict(status='completed',data_directory_role='Fixed observations and recorded instrument settings',analysis_kind='spatial_fitting_and_register_statistics',primary_unit='One classroom; 48 allocated days, 12 four-day blocks and 9984 terminal readings'))
     from mechanism_analysis import analyse
     analyse(data,destination)
+    from operating_configuration import build
+    build(data,destination)
     print(json.dumps(dict(spatial_fits=len(spatial_rows),observed_snapshot_combinations=192,depth12_RMSE_lx=values['depth12_improved']['RMSE_lx'],depth24_RMSE_lx=values['depth24_improved']['RMSE_lx'],metered_delta_kWh=models['primary']['estimate_kWh'],metered_CI=[models['primary']['CI_low_kWh'],models['primary']['CI_high_kWh']]),ensure_ascii=False))
 
 

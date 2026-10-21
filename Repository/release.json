@@ -1,7 +1,7 @@
 {
-  "release": "BSERT-CODE-20261017-C22",
-  "date": "2026-10-17",
-  "manuscript_release": "BSERT-SUBMISSION-20261017-S19",
+  "release": "LIGHTING-CODE-20261021-C23",
+  "date": "2026-10-21",
+  "manuscript_release": "LRT-RESUBMISSION-20261021",
   "python": "3.12",
   "authors": [
     {
@@ -61,7 +61,7 @@
   "software_license": "MIT",
   "data_license": "CC-BY-4.0",
   "license_status": "Assigned by the rights holders",
-  "analysis_scope": "Primary: observed R16 spatial readings and 48-day cumulative metering. Separate supplement: optical models, policy replays and sensitivity calculations.",
+  "analysis_scope": "Fixed R16 spatial observations and 48-day cumulative metering; documented P/FZ controller configuration; separate numerical scenario outcomes are not article evidence",
   "external_upload_performed": false,
   "figure_design_version": "OBSERVATION-MECHANISM-FIGURES",
   "affiliations": [
@@ -77,10 +77,10 @@
   },
   "primary_record_group": "R16",
   "model_scientific_files": 602,
-  "primary_result_files": 37,
+  "primary_result_files": 39,
   "primary_analysis_recomputed": true,
   "fixed_observation_values_changed": false,
-  "primary_mechanisms": "Observed snapshot candidate sets and applied-output-duration diagnostics; numerical controls separate",
+  "primary_mechanisms": "Register-grid-consistent static selection and recorded-output accounting",
   "repository_name": "four-circuit-lighting-control",
   "funding": {
     "funder": "Liaoyuan Power Supply Company, State Grid Jilin Electric Power Co., Ltd.",

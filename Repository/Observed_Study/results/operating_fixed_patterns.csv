@@ -1,0 +1,5 @@
+﻿zone,request_bit,fixed_state_code,binary_circuit_state
+1,8,15,1111
+2,4,14,1110
+3,2,7,0111
+4,1,15,1111

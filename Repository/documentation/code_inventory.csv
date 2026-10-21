@@ -1,10 +1,11 @@
 ﻿file,imports,role,sha256
-Observed_Study/draw_figures.py,argparse|csv|json|matplotlib|matplotlib.pyplot|numpy|pathlib|shutil,"Primary analysis, verification or drawing",caa35da9dbc4daa805eef98e5502e332c69a398c5b8c938a16762713cfa9efc8
-Observed_Study/lib/execution_validation.py,csv|json|metering_statistics|pathlib|shutil|sys|tempfile,"Primary analysis, verification or drawing",ffcf3a18f0650c5c15c939cd506cc39ed352423f81c4f2bad8b0729e23ba8060
-Observed_Study/lib/metering_analysis.py,csv|execution_validation|json|metering_statistics|numpy|pathlib|shutil|sys|tempfile,"Primary analysis, verification or drawing",f37d32d69b07de27a46ac8f77397335946656f3684f00aa64cd228c1253375d8
-Observed_Study/lib/metering_statistics.py,csv|json|math|numpy|pathlib|statistical_utils|sys,"Primary analysis, verification or drawing",d749e16187f3156e6254fb4d18dd260124c31dfe706be86eef215c863adffd0c
-Observed_Study/lib/statistical_utils.py,,"Primary analysis, verification or drawing",e7a36422d2a02923edca2f0590f7a39e38af45cb8d00f4f29e604d5ca83fa8bb
-Observed_Study/mechanism_analysis.py,json|numpy|observed_analysis|pathlib,"Primary analysis, verification or drawing",57ed074c20e4b4016ea9a6d990a27dd51600f8a98291a4ea32d70e4967aecdef
-Observed_Study/observed_analysis.py,argparse|csv|json|math|mechanism_analysis|metering_analysis|numpy|pathlib|shutil|statistical_utils|sys|tempfile,"Primary analysis, verification or drawing",e3b8b5176c88aa6c548a19b15b333cc434ffb255b26387fbf9e295582a41113b
-Observed_Study/verify_observations.py,build_data_dictionary|csv|json|numpy|pathlib|subprocess|sys|tempfile,"Primary analysis, verification or drawing",5d273a6cb54a35982b2693678970170808ca0a51d27cb3e7017ef7d01a6a1bf3
-documentation/build_data_dictionary.py,argparse|csv|json|numpy|pathlib|re,Primary data schema generation and verification,683f04bb37d719f363cad4184942a6db54b92d4667ab230f54a5957f3a71c086
+Observed_Study/draw_figures.py,argparse|csv|json|matplotlib|matplotlib.pyplot|numpy|pathlib|shutil,"Primary analysis, verification, configuration or drawing",caa35da9dbc4daa805eef98e5502e332c69a398c5b8c938a16762713cfa9efc8
+Observed_Study/lib/execution_validation.py,csv|json|metering_statistics|pathlib|shutil|sys|tempfile,"Primary analysis, verification, configuration or drawing",ffcf3a18f0650c5c15c939cd506cc39ed352423f81c4f2bad8b0729e23ba8060
+Observed_Study/lib/metering_analysis.py,csv|execution_validation|json|metering_statistics|numpy|pathlib|shutil|sys|tempfile,"Primary analysis, verification, configuration or drawing",f37d32d69b07de27a46ac8f77397335946656f3684f00aa64cd228c1253375d8
+Observed_Study/lib/metering_statistics.py,csv|decimal|fractions|json|math|numpy|pathlib|statistical_utils|sys,"Primary analysis, verification, configuration or drawing",180a56cfb694dda5e10ad24e654fe332d08c4ce144cedb9a919c289c3beebda4
+Observed_Study/lib/statistical_utils.py,,"Primary analysis, verification, configuration or drawing",e7a36422d2a02923edca2f0590f7a39e38af45cb8d00f4f29e604d5ca83fa8bb
+Observed_Study/mechanism_analysis.py,json|numpy|observed_analysis|pathlib,"Primary analysis, verification, configuration or drawing",57ed074c20e4b4016ea9a6d990a27dd51600f8a98291a4ea32d70e4967aecdef
+Observed_Study/observed_analysis.py,argparse|csv|json|math|mechanism_analysis|metering_analysis|numpy|operating_configuration|pathlib|shutil|statistical_utils|sys|tempfile,"Primary analysis, verification, configuration or drawing",f9a9943e50e2764cab29fe348bd46ecaa68f613d5228877401d4cd4be80ed4f7
+Observed_Study/operating_configuration.py,json|numpy|observed_analysis|pathlib,"Primary analysis, verification, configuration or drawing",98d16c3a0169d37b3cf9a1c0dfdf075a22760dd2c0ac5803f14b654c0d7106ed
+Observed_Study/verify_observations.py,build_data_dictionary|csv|json|metering_statistics|numpy|pathlib|subprocess|sys|tempfile,"Primary analysis, verification, configuration or drawing",ae41d4e1cf85a562d4ee6a84be1c82d7c451cf1e1cf948e0a13c828eab9469f6
+documentation/build_data_dictionary.py,argparse|csv|json|numpy|pathlib|re,"Primary analysis, verification, configuration or drawing",683f04bb37d719f363cad4184942a6db54b92d4667ab230f54a5957f3a71c086

@@ -1,16 +1,28 @@
 {
   "status": "passed",
-  "primary_checks": 3782,
-  "numerical_invariants": 68,
-  "model_data_catalog_files": 889,
-  "model_dictionary_rows": 4411,
-  "model_publication_source_entries": 49,
-  "primary_dictionary_fields": 2232,
-  "primary_results_byte_unchanged": 37,
-  "numerical_results_byte_unchanged": 602,
-  "png_figures_byte_identical": 18,
-  "edge_cases_verified": 6,
-  "full_numerical_pipeline_reexecuted": false,
-  "numerical_kernels_byte_unchanged": 27,
-  "full_numerical_comparison_evidence_retained": true
+  "primary_checks": 7035,
+  "primary_result_files": 39,
+  "fixed_input_files_preserved": 13,
+  "fixed_input_values_changed": false,
+  "model_project_byte_preserved": true,
+  "register_grid_ties_verified": true,
+  "runtime_configuration_reproduced": true,
+  "primary_dictionary": {
+    "status": "passed",
+    "fields_checked": 2262,
+    "files_checked": 50
+  },
+  "changed_primary_results": [
+    "Observed_Study/results/execution_contrast_decomposition.csv",
+    "Observed_Study/results/execution_daily.csv",
+    "Observed_Study/results/execution_mechanism_summary.json",
+    "Observed_Study/results/execution_policy_summary.csv",
+    "Observed_Study/results/metered_models.json",
+    "Observed_Study/results/metering_statistics/actual_day_models.json",
+    "Observed_Study/results/metering_statistics/daily_eligibility.csv",
+    "Observed_Study/results/metering_statistics/state_power.csv",
+    "Observed_Study/results/operating_fixed_patterns.csv",
+    "Observed_Study/results/operating_policy_configuration.json",
+    "Observed_Study/results/snapshot_request_candidates.csv"
+  ]
 }

@@ -1,6 +1,8 @@
 """Cumulative-register statistics and recorded-output diagnostic eligibility."""
 from pathlib import Path
 import csv,json,math,sys
+from decimal import Decimal, ROUND_HALF_EVEN
+from fractions import Fraction
 import numpy as np
 from statistical_utils import tcrit
 def read(p):
@@ -15,6 +17,26 @@ def optional_number(x):
   value=float(x)
   return value if math.isfinite(value) else None
  except (ValueError,TypeError):return None
+
+def calibration_power_centres(segments,resolution):
+ step=Decimal(str(resolution))
+ if not step.is_finite() or step<=0:raise ValueError('Positive finite register resolution required')
+ tolerance=max(Decimal('1e-12'),step*Decimal('1e-9'))
+ totals=[0]*16;durations=[Fraction(0) for state in range(16)]
+ for segment in segments:
+  state=int(segment['state']);duration=Fraction(str(segment['duration_h']))
+  if state not in range(16) or duration<=0:raise ValueError('Invalid state or calibration duration')
+  endpoints=[]
+  for field in ['start_register_kWh','end_register_kWh']:
+   value=Decimal(str(segment[field]))
+   if not value.is_finite():raise ValueError('Nonfinite calibration endpoint')
+   ticks=int((value/step).to_integral_value(rounding=ROUND_HALF_EVEN))
+   if abs(value-Decimal(ticks)*step)>tolerance:raise ValueError('Calibration endpoint is not on the declared register grid')
+   endpoints.append(ticks)
+  if endpoints[1]<endpoints[0]:raise ValueError('Decreasing calibration register')
+  totals[state]+=endpoints[1]-endpoints[0];durations[state]+=duration
+ if any(duration<=0 for duration in durations):raise ValueError('Every state requires calibration exposure')
+ return np.array([float(Fraction(total)*Fraction(step)/duration) for total,duration in zip(totals,durations)])
 def model(rows,settings,upper,adjust=False,first='P24',second='P12'):
  if first==second or first not in ['FZ12','P8','P12','P24'] or second not in ['FZ12','P8','P12','P24']:raise ValueError('Choose two distinct recorded policy labels')
  actual=[r for r in rows if r['actual_day_eligible']];eligible=[r for r in actual if not adjust or (r['occupied_zone_hours'] is not None and r['daylight_reference_lxh'] is not None)];out=dict(n=len(eligible),actual_eligible_days=len(actual),missing_covariates_excluded_only_sensitivity=len(actual)-len(eligible),contrast=first+' minus '+second,model='block + assigned strategy'+(' + reading-zone hours + daylight integral' if adjust else ''),covariate_role='sensitivity' if adjust else 'primary',interval='day-level t interval; fixed instrument envelope reported separately')
@@ -47,7 +69,7 @@ def process(src):
  if len(cal)!=48 or any(float(r['duration_h'])<=0 for r in cal):raise ValueError('48 positive calibration segments required')
  for i,r in enumerate(cal):
   if i and float(r['start_register_kWh'])!=float(cal[i-1]['end_register_kWh']):raise ValueError('Noncontinuous calibration register')
- order=np.array([int(r['state']) for r in cal]);duration=np.array([float(r['duration_h']) for r in cal]);delta=np.array([float(r['end_register_kWh'])-float(r['start_register_kWh']) for r in cal]);ch=np.array([sum(duration[order==c]) for c in range(16)]);phat=np.array([sum(delta[order==c])/ch[c] for c in range(16)]);tr=6*t/(3600*ch);upper=(phat+3*q/ch)/((1-A)*(1-tr));lower=np.maximum(0,(phat-3*q/ch)/((1+A)*(1+tr)))
+ order=np.array([int(r['state']) for r in cal]);duration=np.array([float(r['duration_h']) for r in cal]);ch=np.array([sum(duration[order==c]) for c in range(16)]);phat=calibration_power_centres(cal,q);tr=6*t/(3600*ch);upper=(phat+3*q/ch)/((1-A)*(1-tr));lower=np.maximum(0,(phat-3*q/ch)/((1+A)*(1+tr)))
  if any(sum(order==c)!=3 for c in range(16)):raise ValueError('Three calibrations per state required')
  write(out/'state_power.csv',[dict(state=c,estimated_power_kW=float(phat[c]),lower_kW=float(lower[c]),upper_kW=float(upper[c])) for c in range(16)])
  if len(set(r['day'] for r in days))!=len(days):raise ValueError('Duplicate assigned days; fault illustrations belong to separate datasets')

@@ -1,0 +1,79 @@
+{
+  "evaluation_grid": "All 81 candidate positions, equal point weights within each of four zones",
+  "operating_targets": {
+    "mean_lx": 500,
+    "minimum_lx": 300
+  },
+  "daylight_bin_lower_lx": [
+    0.0,
+    120.0,
+    350.0
+  ],
+  "reference_margin_lx": 58.38430012092503,
+  "reference_mapping": "Piecewise-linear inverse through gray_knots/lux_knots, subtract lamp_camera_equivalent_lx at captured state, then reference margin",
+  "reference_calibration_file": "Model_Study/Study/control_calibration/R16_reference_calibration.json",
+  "reference_knots": 25,
+  "out_of_calibration_grayscale": "Outside first-minus-2 to last-plus-2 gray knots: lowest daylight bin",
+  "nominal_circuit_power_W": [
+    150.0,
+    153.0,
+    154.0,
+    151.0
+  ],
+  "ranking": "Maximum positive normalised mean/minimum shortfall, nominal circuit power, then state code",
+  "manual_constraints": "Manual and confirmation-hold masks: (state & forced_on) == forced_on and (state & forced_off) == 0; manual-off zones removed from automatic requests",
+  "fixed_zone_combination": "Bitwise OR of requested-zone night patterns, then forced-on/forced-off masks; no global repair",
+  "policies": [
+    {
+      "policy": "P8",
+      "points": 8,
+      "night_margin_lx": 65.59725007368218,
+      "positive_bin_extra_margin_lx": 9.45950700150189,
+      "single_zone_night_patterns": [
+        15,
+        14,
+        7,
+        15
+      ]
+    },
+    {
+      "policy": "P12",
+      "points": 12,
+      "night_margin_lx": 57.37484743541471,
+      "positive_bin_extra_margin_lx": 12.882720320188508,
+      "single_zone_night_patterns": [
+        15,
+        14,
+        7,
+        15
+      ]
+    },
+    {
+      "policy": "P24",
+      "points": 24,
+      "night_margin_lx": 54.492559927043615,
+      "positive_bin_extra_margin_lx": 25.1416558573276,
+      "single_zone_night_patterns": [
+        15,
+        14,
+        7,
+        15
+      ]
+    }
+  ],
+  "timing_s": {
+    "controller": 0.2,
+    "reference": 1,
+    "vacancy": 60,
+    "minimum_dwell": 10,
+    "manual_lock": 2700
+  },
+  "confirmation_frames": 5,
+  "source_functions": [
+    "Model_Study/Study/spatial_fitting.py:fit",
+    "Model_Study/Study/spatial_fitting.py:fast_planner",
+    "Model_Study/Study/spatial_fitting.py:fast_engine",
+    "Model_Study/Study/reference_calibration.py:bins_table"
+  ],
+  "scope": "Fixed-input controller configuration; operating-day electricity uses the cumulative-register records"
+}

@@ -102,6 +102,27 @@ def main():
     events=read(data/'metering/node_execution_events.csv');execution=read(results/'execution_daily.csv');hours=read(results/'execution_state_hours.csv')
     check('recorded_interval_count',len(read(results/'execution_intervals.csv'))==len(events)==2405)
     power=np.array([float(row['estimated_power_kW']) for row in read(results/'metering_statistics/state_power.csv')])
+    sys.path.insert(0,str(HERE/'lib'))
+    from metering_statistics import calibration_power_centres
+    calibration=read(data/'metering/calibration_segments.csv')
+    register_step=json.loads((data/'metering/meter_settings.json').read_text('utf-8'))['resolution_kWh']
+    grid_power=calibration_power_centres(calibration,register_step)
+    check('calibration_centres_follow_register_grid',np.array_equal(power,grid_power))
+    check('equal_two_circuit_centres',power[3]==power[5]==power[6]==power[12])
+    check('equal_single_circuit_centres',power[1]==power[4])
+    check('different_register_centres_retained',power[9]<power[3]<power[10])
+    for row in requests:
+        for stage in ['observed','unprotected','protected']:
+            states=[int(state) for state in row[stage+'_candidate_states'].split(';') if state]
+            selected=min(states,key=lambda state:(power[state],state)) if states else None
+            check('register_grid_state_order_'+row['layout']+'_'+row['n_points']+'_'+row['model']+'_'+row['background_lx']+'_'+row['request_mask']+'_'+stage,('' if selected is None else str(selected))==row[stage+'_selected_state'])
+    operating=json.loads((results/'operating_policy_configuration.json').read_text('utf-8'))
+    check('operating_grid_is_distinct_from_terminal','81 candidate' in operating['evaluation_grid'])
+    check('operating_bins',[0.,120.,350.]==operating['daylight_bin_lower_lx'])
+    check('operating_power_uses_nominal_circuits',operating['nominal_circuit_power_W']==[150.,153.,154.,151.])
+    check('operating_reference_is_metering_configuration',abs(operating['reference_margin_lx']-58.38430012092503)<1e-12)
+    patterns=read(results/'operating_fixed_patterns.csv')
+    check('FZ12_fixed_patterns',[int(row['fixed_state_code']) for row in patterns]==[15,14,7,15])
     for row in execution:
         day=row['day'];actual=next(item for item in raw if item['day']==day)
         selected=sorted([item for item in events if item['day']==day],key=lambda item:float(item['event_seconds']))

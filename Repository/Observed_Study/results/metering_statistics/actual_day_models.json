@@ -200,7 +200,7 @@
     "fixed_envelope_kWh": 0.16519897981136344,
     "expanded_interval_low_kWh": -0.5379209773458791,
     "expanded_interval_high_kWh": 0.20637677260434836,
-    "shared_state_sensitivity_bound_kWh": 0.006296927325137418,
+    "shared_state_sensitivity_bound_kWh": 0.006296927325137415,
     "endpoint_coefficients": {
       "R16_D01_start": 0.09043303289827997,
       "R16_D01_end": -0.09043303289827997,
@@ -354,7 +354,7 @@
     "fixed_envelope_kWh": 0.15688968335035758,
     "expanded_interval_low_kWh": -0.6018629659345233,
     "expanded_interval_high_kWh": 0.1768629659345128,
-    "shared_state_sensitivity_bound_kWh": 0.006983480021341264,
+    "shared_state_sensitivity_bound_kWh": 0.006983480021341249,
     "endpoint_coefficients": {
       "R16_D01_start": 0.08333333333333333,
       "R16_D01_end": -0.08333333333333333,
@@ -510,7 +510,7 @@
     "fixed_envelope_kWh": 0.17744079060462112,
     "expanded_interval_low_kWh": -0.6138295973310827,
     "expanded_interval_high_kWh": 0.15941715190476613,
-    "shared_state_sensitivity_bound_kWh": 0.00662238891090207,
+    "shared_state_sensitivity_bound_kWh": 0.006622388910902058,
     "endpoint_coefficients": {
       "R16_D01_start": 0.09527709581522692,
       "R16_D01_end": -0.09527709581522692,
@@ -664,7 +664,7 @@
     "fixed_envelope_kWh": 0.15783963227783449,
     "expanded_interval_low_kWh": -0.42447958152865684,
     "expanded_interval_high_kWh": 0.356146248195333,
-    "shared_state_sensitivity_bound_kWh": 0.007568321762131045,
+    "shared_state_sensitivity_bound_kWh": 0.0075683217621310556,
     "endpoint_coefficients": {
       "R16_D01_start": -0.08333333333333333,
       "R16_D01_end": 0.08333333333333333,
@@ -820,7 +820,7 @@
     "fixed_envelope_kWh": 0.18318639669932638,
     "expanded_interval_low_kWh": -0.3453458968846253,
     "expanded_interval_high_kWh": 0.44636192806592534,
-    "shared_state_sensitivity_bound_kWh": 0.006112447765577307,
+    "shared_state_sensitivity_bound_kWh": 0.006112447765577313,
     "endpoint_coefficients": {
       "R16_D01_start": -0.08018829143297075,
       "R16_D01_end": 0.08018829143297075,
